@@ -3,23 +3,18 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>cn.smileyan.demo</groupId>
+        <artifactId>flink-sql-learning-examples</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
 
-    <groupId>cn.smileyan.demo</groupId>
-    <artifactId>flink-sql-learning-examples</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>flink-examples</module>
-        <module>flink-sql-demos</module>
-        <module>flink-streaming-demos</module>
-    </modules>
+    <artifactId>flink-streaming-demos</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <flink.version>1.12.7</flink.version>
-        <scala.binary.version>2.11</scala.binary.version>
     </properties>
 
 </project>
