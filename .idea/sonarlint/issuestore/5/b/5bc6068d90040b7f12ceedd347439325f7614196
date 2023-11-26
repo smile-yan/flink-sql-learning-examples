@@ -1,0 +1,17 @@
+
+\	java:S112‰"FDefine and throw a dedicated exception instead of using a generic one.(ÃÔ÷ı
+r
+java:S2629`"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ãÎ­ì
+m
+java:S3776?"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ
+@	java:S106F"+Replace this use of System.err by a logger.(¦†È¡
+E	java:S106M"+Replace this use of System.out by a logger.(’ğî†ûÿÿÿÿ
+@	java:S106S"+Replace this use of System.err by a logger.(Ï§¡×
+W
+java:S3457_"AFormat specifiers should be used instead of string concatenation.(Ï¿ë÷
+K
+java:S1874™"4Remove this use of "closeQuietly"; it is deprecated.(©‰âº
+P
+java:S1874š"4Remove this use of "closeQuietly"; it is deprecated.(¢³ªùÿÿÿÿ
+]
+java:S3457§"AFormat specifiers should be used instead of string concatenation.(ıô¿€üÿÿÿÿ

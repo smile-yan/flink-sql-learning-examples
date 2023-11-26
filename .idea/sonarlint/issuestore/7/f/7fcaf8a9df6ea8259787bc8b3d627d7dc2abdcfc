@@ -1,0 +1,16 @@
+
+l
+java:S1192R"QUse already-defined constant 'POINTS_FILE' instead of duplicating its value here.(îòƒÙıÿÿÿÿ
+\
+java:S2184€"@Cast one of the operands of this addition operation to a "long".(«ä‚†ùÿÿÿÿ
+@	java:S106J"+Replace this use of System.out by a logger.(ÆÀûı
+A
+java:S1075b"&Remove this hard-coded path-delimiter.(ÀÅÛ™øÿÿÿÿ
+E
+java:S2093a"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+<
+java:S1075z"&Remove this hard-coded path-delimiter.(»£á‘
+E
+java:S2093y"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+A	java:S106ˆ"+Replace this use of System.out by a logger.(ÆÀûı
+F	java:S106Š"+Replace this use of System.out by a logger.(Ì²â­ùÿÿÿÿ

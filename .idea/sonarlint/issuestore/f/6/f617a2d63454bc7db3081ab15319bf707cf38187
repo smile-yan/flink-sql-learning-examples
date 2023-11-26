@@ -1,0 +1,6 @@
+
+E	java:S106L"+Replace this use of System.out by a logger.(›ŸÒøûÿÿÿÿ
+@	java:S106M"+Replace this use of System.out by a logger.(¾Ô¹¨
+H
+java:S1874["3Remove this use of "writeAsText"; it is deprecated.(ÀçÞ%
+E	java:S106]"+Replace this use of System.out by a logger.(‡ÐÌÝùÿÿÿÿ
